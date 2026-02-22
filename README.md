@@ -4,7 +4,7 @@ A complete Java 21 performance demonstration project, showing different aspects 
 
 ## 📋 About the Project
 
-This project was created to visually demonstrate important Java performance concepts through practical and measurable examples. Ideal for presentations, educational videos, and case studies.
+This project demonstrates important Java performance concepts through practical and measurable examples. It compares different approaches to common programming tasks, showing the real performance impact of each choice.
 
 ## ✨ Features
 
@@ -136,46 +136,6 @@ mvn exec:java -Dexec.mainClass="org.example.Main"
   LinkedList    : 46.64 ms (5.06x slower)
 ```
 
-## 🎥 Creating a Video
-
-This project was designed with visual demonstrations in mind. Here are some tips:
-
-### Recording Setup:
-1. **Increase terminal font size** for better readability (16-20pt)
-2. **Use a dark theme** for better contrast with colors
-3. **Full screen terminal** or resized for focus
-4. **Run multiple times** to choose the best execution
-
-### Suggested Script:
-1. **Introduction** (30s)
-   - Present the project objective
-   - Show folder structure
-
-2. **Code Explanation** (2-3 min)
-   - Quickly show Main.java
-   - Highlight 1-2 specific benchmarks
-   - Explain time measurement
-
-3. **Execution** (3-4 min)
-   - Run the project
-   - Pause at interesting results
-   - Explain the numbers
-
-4. **Results Analysis** (2-3 min)
-   - Highlight performance differences
-   - Explain when to use each approach
-   - Practical tips
-
-5. **Conclusion** (30s)
-   - Learning summary
-   - Repository link
-
-### Key Points to Highlight in Video:
-- ✅ **HashSet is much faster than ArrayList for searches**
-- ✅ **StringBuilder is hundreds of times faster than String concatenation**
-- ✅ **Parallel streams help with complex operations**
-- ✅ **Cache can drastically reduce execution time**
-- ✅ **Traditional for loops are still very efficient**
 
 ## 📈 Typical Results
 
