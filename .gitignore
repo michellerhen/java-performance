@@ -49,6 +49,13 @@ Thumbs.db
 *.war
 *.nar
 *.ear
+
+# Personal guides (not needed in repository)
+VIDEO_GUIDE.md
+GIT_PUBLISH.md
+TRANSLATION_SUMMARY.md
+NEXT_STEPS.md
+FILES_EXPLANATION.md
 *.zip
 *.tar.gz
 *.rar
