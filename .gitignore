@@ -50,21 +50,7 @@ Thumbs.db
 *.nar
 *.ear
 
-# Personal guides (not needed in repository)
-VIDEO_GUIDE.md
-GIT_PUBLISH.md
-TRANSLATION_SUMMARY.md
-NEXT_STEPS.md
-FILES_EXPLANATION.md
-GIT_SUCCESS.md
-AUTH_FIX.md
-TERMINAL_FIX.md
-SSH_STEP_BY_STEP.md
-FINAL_SOLUTION.md
-SUCCESS_FINAL.md
-setup-ssh.sh
-push-to-github.sh
-complete-setup.sh
+
 *.zip
 *.tar.gz
 *.rar
