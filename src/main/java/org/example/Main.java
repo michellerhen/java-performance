@@ -69,6 +69,7 @@ public class Main {
         System.out.println("║                                                           ║");
         System.out.println("║     JAVA PERFORMANCE DEMONSTRATION PROJECT               ║");
         System.out.println("║     Performance Analysis in Java 21                       ║");
+        System.out.println("║     by Michelle Ramos Henriques                           ║");
         System.out.println("║                                                           ║");
         System.out.println("╚═══════════════════════════════════════════════════════════╝");
         System.out.println(ConsoleColors.RESET);
